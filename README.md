@@ -136,15 +136,11 @@
 ### 🌱 [Planty — WordPress business site](https://github.com/Nicognito23/Planty-wordpress)
 > Business website for a 100% natural drink — WordPress, Elementor, PHP, CSS
 
-### 🔮 [Where is the Yokai](https://github.com/Nicognito23/where-is-the-yokai)
-> Front-end project — HTML, CSS, JavaScript
 
 ## 📫 Contact
 
 - 🌐 **Portfolio**: [nicolasraux.fr](https://nicolasraux.fr)
-- 💼 **LinkedIn**: [to be added]
-- 📧 **Email**: [to be added if desired]
-
+- 💼 **LinkedIn**: (https://www.linkedin.com/in/nicolas-raux-63606a21a/) 
 ---
 
 💡 **Open to freelance or full-time roles, remote** — WordPress development or technical support/maintenance.
