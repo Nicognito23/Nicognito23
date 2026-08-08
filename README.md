@@ -1,144 +1,150 @@
-# 🚀 Nicolas Raux - Développeur Web WordPress
+# 👋 Nicolas Raux — Développeur WordPress
 
-> **Créer des sites web modernes pour web agencies - Entre no-code et développement sur mesure**
+> **Sites WordPress sur mesure, sans page builder — et un vrai goût pour le débogage.**
 
 ## 🎯 À propos de moi
 
-- 🎓 **En formation** développeur web chez OpenClassrooms
-- 💼 **Spécialisé** WordPress/PHP et solutions Elementor
-- 🎨 **Intégration** responsive de maquettes avec attention aux détails
-- 💡 **Approche hybride** : no-code intelligent + développement custom
-- 🚀 **Objectif** : freelance pour web agencies et clients finaux
+- 🎓 **Développeur Informatique** — certification RNCP38145 (niveau 5, bac+2), OpenClassrooms
+- 💻 **Thèmes WordPress from scratch** — PHP natif, sans Elementor ni page builder
+- 🔍 **Ce qui me motive vraiment** : comprendre pourquoi un site casse, et le réparer
+- 🌍 **Recherche** : remote en priorité, freelance ou salarié — développement ou support/maintenance WordPress
+- 📍 France · Remote
 
-## 🛠️ Stack Technique
+## 🛠️ Stack technique
 
-### Frontend
+### Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/-Responsive%20Design-02569B?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### WordPress
+### WordPress & PHP
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Outils
+### Outils & déploiement
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FileZilla](https://img.shields.io/badge/-FTP%2FFileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
 
-## 📂 Projets Highlights
+## 💡 Ce que je sais faire
 
-### 🌱 [Planty - Site Vitrine WordPress](https://github.com/Nicognito23/Planty-wordpress)
-> Site vitrine pour une boisson 100% naturelle
-- **Stack** : WordPress, Elementor, PHP, CSS
-- **Features** : Responsive, formulaires, thème enfant
-- **Highlights** : Respect pixel-perfect des maquettes Figma
+- Custom Post Types et metaboxes natives (`register_post_type()`, `add_meta_box()`), sans dépendance à ACF
+- Shortcodes avec `WP_Query`, sauvegarde sécurisée (nonce, sanitisation par type de champ, échappement à l'affichage)
+- JavaScript vanilla pour toute l'interactivité — scroll, animations, formulaires multi-étapes — zéro librairie
+- Architecture SCSS modulaire, compilation maîtrisée (Sass, npm scripts)
+- Déploiement FTP, gestion de base de données, hébergement mutualisé (o2switch)
+- Diagnostic méthodique : logs, devtools, élimination progressive des causes jusqu'à la résolution
+
+## 📂 Projets
+
+### 🌐 [Portfolio Pro — nicolasraux.fr](https://nicolasraux.fr)
+> Thème WordPress complet, développé entièrement from scratch
+- **Stack** : PHP natif, SCSS modulaire (8 partials), JavaScript vanilla ES6, zéro dépendance
+- **Fonctionnalités** : CPT "Projet" avec metaboxes custom, shortcodes (`WP_Query`), formulaire de devis en stepper 6 étapes, animations JS (scroll, spotlight, parallax)
+- **Projet final de formation OpenClassrooms**, soutenu et validé
+
+### 🎨 [Koukaki — Dynamisation d'un site WordPress](https://github.com/Nicognito23/Koukaki-OCR)
+> Studio d'animation nominé aux Oscars — intégration d'animations CSS/JS, carrousel, menu animé
+
+### 📸 Nathalie Mota — Thème WordPress sur mesure
+> Site photographe événementielle, CPT et modale de contact custom
+
+### 🌱 [Planty — Site vitrine WordPress](https://github.com/Nicognito23/Planty-wordpress)
+> Site vitrine pour une boisson 100% naturelle — WordPress, Elementor, PHP, CSS
 
 ### 🔮 [Where is the Yokai](https://github.com/Nicognito23/where-is-the-yokai)
-> Projet de développement frontend
-- **Stack** : HTML, CSS, JavaScript
-- **Status** : En cours de documentation
+> Projet front-end — HTML, CSS, JavaScript
 
-### 🎓 Formation OpenClassrooms
-> 6 projets variés en développement web
-- **Portfolio WordPress** (à venir)
-- **Autres projets** (documentation en cours)
-
-## 📊 GitHub Stats
+## 📊 Stats GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nicognito23&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicognito23&layout=compact&theme=dark&hide_border=true" width="400" />
 </div>
 
-## 🌟 Objectifs 2025
-
-- 🎯 **Terminer** la formation OpenClassrooms
-- 💼 **Lancer** mon activité freelance
-- 📱 **Créer** mon portfolio WordPress
-- 🚀 **Développer** mes compétences React/Vue.js
-
 ## 📫 Contact
 
-- 💼 **LinkedIn** : [À ajouter]
-- 🌐 **Portfolio** : En construction
-- 📧 **Email** : [À ajouter si vous voulez]
+- 🌐 **Portfolio** : [nicolasraux.fr](https://nicolasraux.fr)
+- 💼 **LinkedIn** : [à ajouter]
+- 📧 **Email** : [à ajouter si souhaité]
 
 ---
 
-💡 **Ouvert aux projets freelance** - Création de sites WordPress pour web agencies et clients finaux
+💡 **Disponible pour missions freelance ou poste salarié, en remote** — développement WordPress ou support/maintenance technique.
 
+<br>
 
-# 🚀 Nicolas Raux - WordPress Web Developer
+---
 
-> **Creating modern websites for web agencies - Between no-code and custom development**
+<br>
 
-## 🎯 About Me
+# 👋 Nicolas Raux — WordPress Developer
 
-- 🎓 **Web Developer Student** at OpenClassrooms
-- 💼 **Specialized** in WordPress/PHP and Elementor solutions
-- 🎨 **Responsive integration** of mockups with attention to detail
-- 💡 **Hybrid approach**: Smart no-code + custom development
-- 🚀 **Goal**: Freelance for web agencies and direct clients
+> **Custom WordPress sites, no page builder — and a real taste for debugging.**
 
-## 🛠️ Tech Stack
+## 🎯 About me
 
-### Frontend
+- 🎓 **Certified IT Developer** — RNCP38145 (level 5, French bac+2 equivalent), OpenClassrooms
+- 💻 **WordPress themes built from scratch** — native PHP, no Elementor or page builder
+- 🔍 **What actually drives me**: understanding why a site breaks, and fixing it
+- 🌍 **Looking for**: remote-first roles, freelance or employed — development or WordPress support/maintenance
+- 📍 France · Remote
+
+## 🛠️ Tech stack
+
+### Front-end
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/-Responsive%20Design-02569B?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript%20ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### WordPress
+### WordPress & PHP
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Tools
+### Tools & deployment
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![FileZilla](https://img.shields.io/badge/-FTP%2FFileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
 
-## 📂 Project Highlights
+## 💡 What I can do
 
-### 🌱 [Planty - WordPress Business Website](https://github.com/Nicognito23/Planty-wordpress)
-> Business website for a 100% natural drink startup
-- **Stack**: WordPress, Elementor, PHP, CSS
-- **Features**: Responsive design, contact forms, child theme
-- **Highlights**: Pixel-perfect Figma mockup integration
+- Custom Post Types and native metaboxes (`register_post_type()`, `add_meta_box()`), no ACF dependency
+- Shortcodes with `WP_Query`, secure saving (nonce, per-field sanitization, output escaping)
+- Vanilla JavaScript for all interactivity — scroll, animations, multi-step forms — zero libraries
+- Modular SCSS architecture, controlled compilation (Sass, npm scripts)
+- FTP deployment, database management, shared hosting (o2switch)
+- Methodical debugging: logs, devtools, progressive elimination until resolution
+
+## 📂 Projects
+
+### 🌐 [Portfolio Pro — nicolasraux.fr](https://nicolasraux.fr)
+> Full WordPress theme built entirely from scratch
+- **Stack**: Native PHP, modular SCSS (8 partials), vanilla ES6 JavaScript, zero dependencies
+- **Features**: "Project" CPT with custom metaboxes, `WP_Query`-based shortcodes, 6-step quote request stepper, JS animations (scroll, spotlight, parallax)
+- **Final project** of OpenClassrooms training, presented and validated
+
+### 🎨 [Koukaki — WordPress site revamp](https://github.com/Nicognito23/Koukaki-OCR)
+> Oscar-nominated animation studio — CSS/JS animations, carousel, animated menu
+
+### 📸 Nathalie Mota — Custom WordPress theme
+> Event photographer website, custom CPT and contact modal
+
+### 🌱 [Planty — WordPress business site](https://github.com/Nicognito23/Planty-wordpress)
+> Business website for a 100% natural drink — WordPress, Elementor, PHP, CSS
 
 ### 🔮 [Where is the Yokai](https://github.com/Nicognito23/where-is-the-yokai)
-> Frontend development project
-- **Stack**: HTML, CSS, JavaScript
-- **Status**: Documentation in progress
-
-### 🎓 OpenClassrooms Training
-> 6 diverse web development projects
-- **WordPress Portfolio** (coming soon)
-- **Other projects** (documentation in progress)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicognito23&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicognito23&layout=compact&theme=dark&hide_border=true" width="400" />
-</div>
-
-## 🌟 2024 Goals
-
-- 🎯 **Complete** OpenClassrooms training
-- 💼 **Launch** freelance business
-- 📱 **Build** WordPress portfolio
-- 🚀 **Develop** React/Vue.js skills
+> Front-end project — HTML, CSS, JavaScript
 
 ## 📫 Contact
 
-- 💼 **LinkedIn**: [To be added]
-- 🌐 **Portfolio**: Under construction
-- 📧 **Email**: [To be added if desired]
+- 🌐 **Portfolio**: [nicolasraux.fr](https://nicolasraux.fr)
+- 💼 **LinkedIn**: [to be added]
+- 📧 **Email**: [to be added if desired]
 
 ---
 
-💡 **Open to freelance projects** - WordPress website creation for web agencies and direct clients
+💡 **Open to freelance or full-time roles, remote** — WordPress development or technical support/maintenance.
