@@ -1,6 +1,6 @@
 # 👋 Nicolas Raux — Développeur WordPress
 
-> **Sites WordPress sur mesure, sans page builder — et un vrai goût pour le débogage.**
+> **Sites WordPress sur mesure, avec ou sans page builder — et un vrai goût pour le débogage.**
 
 ## 🎯 À propos de moi
 
